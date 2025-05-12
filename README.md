@@ -1,4 +1,4 @@
-## Hi there 👋
+ola bem-vindo ao meu perfil,sou aluna 1 ano do ensino medio 🌺
 
 <!--
 **naty167/naty167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
